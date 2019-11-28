@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+}
+
+.login {
+    font-size: 25px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+body{
+	width: inherit;
+    height: 400px;
+    background-color: burlywood;
+}
